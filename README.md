@@ -1,15 +1,23 @@
 ### Date created
-Include the date you created this project and README file.
+2019/10/23 date created
 
 ### Project Title
-Replace the Project Title
+pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+This file contains the files to achieve the last task of this Nanodegree
+The assignment is about testing our GIT and GITHUB knowledge
 
 ### Files used
-Include the files used
+bikeshare_2.py
+README.md
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Toon Seghers
+Inspired on the Udacity "Introduction to Python Programming Course"
 
+### Contact
+Toon Seghers
+toonseghers@udacity.com
++32491362798
