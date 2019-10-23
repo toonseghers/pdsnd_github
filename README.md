@@ -16,3 +16,8 @@ README.md
 ### Credits
 Toon Seghers
 Inspired on the Udacity "Introduction to Python Programming Course"
+
+### Contact
+Toon Seghers
+toonseghers@udacity.com
++32491362798
